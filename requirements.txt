@@ -1,0 +1,15 @@
+fastapi
+uvicorn[standard]
+pandas
+numpy
+scipy
+scikit-learn
+matplotlib
+seaborn
+gradio
+python-dotenv
+python-multipart
+joblib
+reportlab
+google-genai
+
